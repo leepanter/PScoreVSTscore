@@ -2,11 +2,11 @@
 **Document:** Readme.md
 **Author:**  Lee Panter
 **email:** lee.panter@ucdenver.edu
-**URL:** `git@github.com:leepanter/PScoreVSTscore.git`
+**URL:** `git@github.com:leepanter/PScoreVSTscore.git`  
 
 Disclaimer:
 
-The contents of this repository including all documents, code, code-output and data are not (and never were) intended to be published for public record under the description of original intellectual property of the named author.    
+The contents of this repository including all documents, code, code-output and data are not (and never were) intended to be published for public record under the description of original intellectual property of the named author.
 
 This repository is intended for directional guidance and distribution of knowledge. Please research all claims and source independent referrences for material cited from this repository.
 
